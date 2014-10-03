@@ -17,7 +17,7 @@ int main(void)
     for(i=1;i<50;i++)
         printf("=");
     printf("\n|| Ha Noi University of Scientific & Technology ||\n");
-    printf("||             THE SINH VIEN                    ||\n");
+    printf("||              STUDENT CARD                    ||\n");
     printf("|| Name:          %-30s||\n",name);
     printf("|| Date of birth: %-30s||\n",birth);
     printf("|| Code:          %-30s||\n",mssv);
